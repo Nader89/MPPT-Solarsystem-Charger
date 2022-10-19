@@ -1,0 +1,11 @@
+https://www.howtogeek.com/285082/how-to-run-windows-programs-from-windows-10s-bash-shell/
+
+https://www.codegrepper.com/code-examples/shell/run+an+exe+and+retuen+from+shell+script
+
+https://linuxhint.com/author/ashabbir/
+
+https://linuxhint.com/30_bash_script_examples/#t23
+
+
+
+
